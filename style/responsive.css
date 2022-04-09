@@ -1,0 +1,54 @@
+@media screen and (max-width: 600px) {
+    #logo {
+        float: left;
+        margin-left: 15px;
+    }
+
+    #menu {
+        padding-top: 60px;
+        margin-left: 35px;
+        margin-right: auto;
+    }
+    #menu a {
+        padding: 10px 10px 0 10px;
+    }
+    .post{
+        float: right;
+        width: 320px;
+    }
+    .entry{
+        margin-top: 60px;
+    }
+    #page {
+        width: 320px;
+        float: left;
+        margin-left: 0;
+    }
+    #content{
+        width: 320px;
+    }
+    #wrapper, #header{
+        float: right;
+        width: 320px;
+        margin-right: 20px;
+    }
+    #footer{
+        width: 320px;
+    }
+
+    #footer p{
+        float: left;
+        padding-left: 10px;
+    }
+    #sidebar {
+        display: none;
+        float: bottom;
+    }
+
+    .turner{
+        padding-left: 50px;
+    }
+    .subPage{
+        padding-left: 90px;
+    }
+}
