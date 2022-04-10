@@ -27,22 +27,22 @@
             <h2>DATE</h2>
             <ul>
                 <li>
-                    <a id="Q1" onclick="stayDate('Q1')" onmouseover="findDate('Q1')" onmouseout="unfindDate('Q1')">
+                    <a id="Q1" onmouseover="findDate('Q1')" onmouseout="unfindDate('Q1')">
                         Semester 1 2020
                     </a>
                 </li>
                 <li>
-                    <a id="Q2" onclick="stayDate('Q2')" onmouseover="findDate('Q2')" onmouseout="unfindDate('Q2')">
+                    <a id="Q2" onmouseover="findDate('Q2')" onmouseout="unfindDate('Q2')">
                         Semester 2 2021
                     </a>
                 </li>
                 <li>
-                    <a id="Q3" onclick="stayDate('Q3')" onmouseover="findDate('Q3')" onmouseout="unfindDate('Q3')">
+                    <a id="Q3" onmouseover="findDate('Q3')" onmouseout="unfindDate('Q3')">
                         Semester 1 2021
                     </a>
                 </li>
                 <li>
-                    <a id="Q4" onclick="stayDate('Q4')" onmouseover="findDate('Q4')" onmouseout="unfindDate('Q4')">
+                    <a id="Q4" onmouseover="findDate('Q4')" onmouseout="unfindDate('Q4')">
                         Semester 2 2022
                     </a>
                 </li>
@@ -51,19 +51,24 @@
         <li>
             <h2>TAGS</h2>
             <p>
-                <a onmouseover="tag('Crea')">Creative</a>
+                <a onmouseover="tag('AI')" onmouseout="unTag()">AI</a>
                 -
-                <a onmouseover="tag('Human')">Human</a>
+                <a onmouseover="tag('comp')" onmouseout="unTag()">Computational</a>
                 -
-                <a onmouseover="tag('AI')">AI</a>
+                <a onmouseover="tag('Creati')" onmouseout="unTag()">Creative</a>
                 -
-                <a onmouseover="tag('Reasearch')">Research</a>
+                <a onmouseover="tag('Hardware')" onmouseout="unTag()">Hardware</a>
                 -
-                <a onmouseover="tag('Hardware')">Hardware</a>
+                <a onmouseover="tag('Human')" onmouseout="unTag()">Human</a>
                 -
-                <a onmouseover="tag('computational')">Computational</a>
+                <a onmouseover="tag('Interaction')" onmouseout="unTag()">Interaction</a>
                 -
-                <a onmouseover="tag('Science')">Science</a>
+                <a onmouseover="tag('Science')" onmouseout="unTag()">Science</a>
+                -
+                <a onmouseover="tag('Research')" onmouseout="unTag()">Research</a>
+                -
+                <a onmouseover="tag('ia')" onmouseout="unTag()">Media</a>
+
             </p>
         </li>
         <div id="footer">

@@ -1,9 +1,7 @@
 
-
 let lastID = '';
 let boolLine = false;
 let dateStay = '';
-let arrCourses = [""];
 
 function loadPost(insert){
     //'sub/home.php'
@@ -32,7 +30,7 @@ $(document).scroll(function() {
             document.getElementById("header").style.position = "unset";
             document.getElementById("header").style.paddingTop = "200px";
             document.getElementById("sidebar").style.paddingTop = "140px";
-            document.getElementById("content").style.paddingTop = "1px";
+            //document.getElementById("content").style.paddingTop = "1px";
         } else {
             document.getElementById("sidebar").style.position = "fixed";
             document.getElementById("sidebar").style.marginLeft = "30px";
@@ -46,6 +44,7 @@ $(document).scroll(function() {
     window.addEventListener("scroll", myScrollFunc);
 });
 
+/*
 function stayDate(date) {
     dateStay = date;
     let ArrayQ = ["Q1","Q2","Q3","Q4"];
@@ -56,38 +55,54 @@ function stayDate(date) {
         }
     }
     let fontB = document.getElementsByClassName(date);
-    for (let j = 0; j < fontB.length; j++) {
-        fontB[j].style.fontWeight = "bold";
+    for (let k = 0; k < fontB.length; k++) {
+        fontB[k].style.fontWeight = "bold";
     }
     loadPost(date)
 }
+*/
 
 function findDate(date){
     let font = document.getElementsByClassName(date);
-    for (let j = 0; j < font.length; j++) {
-        font[j].style.fontWeight = "bold";
+    for (let i = 0; i < font.length; i++) {
+        font[i].style.fontStyle = "italic";
+        font[i].style.fontWeight = "bold";
+
     }
 }
 
 function unfindDate(date){
-        if (date !== dateStay) {
+        //if (date !== dateStay) {
             let font = document.getElementsByClassName(date);
-            for (let j = 0; j < font.length; j++) {
-                font[j].style.fontWeight = "normal";
+            for (let i = 0; i < font.length; i++) {
+                font[i].style.fontStyle = "normal";
+                font[i].style.fontWeight = "normal";
             }
-        }
+        //}
 }
 
 function tag(tags) {
-    let box = document.getElementById(tags);
-    //loop through all tags.
-    if (box.textContent.includes(tags)) {
-        console.log('✅ world is contained in div');
-    } else {
-        console.log('⛔️ world is NOT contained in div');
+    const arrCourses = ["Q1", "Q2", "Q3", "Q4"];
+    for (let i = 0; i < arrCourses.length; i++) {
+        let box = document.getElementsByClassName(arrCourses[i]);
+        for (let j = 0; j < box.length; j++) {
+            let font = document.getElementById(box[j].id);
+            if (font.textContent.includes(tags)) {
+                font.style.fontStyle = "italic";
+                font.style.fontWeight = "bold";
+                //font.style.fontVariantCaps = "small-caps";
+            }
+        }
     }
 }
 
 function unTag(){
-
+    const arrCourses = ["Q1", "Q2", "Q3", "Q4"];
+    for (let i = 0; i < arrCourses.length; i++) {
+        let font = document.getElementsByClassName(arrCourses[i]);
+        for (let j = 0; j < font.length; j++) {
+            font[j].style.fontStyle = "normal";
+            font[j].style.fontWeight = "normal";
+        }
+    }
 }
