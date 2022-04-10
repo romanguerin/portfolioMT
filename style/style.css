@@ -122,51 +122,30 @@ img {
 	display: block;
 }
 
-#sub {
-	display: block;
+/* time */
+#Q1 {
+	text-decoration: underline;
+	text-decoration-thickness: 0;
+}
+
+#Q2 {
+	text-decoration: underline;
+	text-decoration-thickness: 0;
+}
+
+#Q3 {
+	text-decoration: underline;
+	text-decoration-thickness: 0;
+}
+
+#Q4 {
+	text-decoration: underline;
+	text-decoration-thickness: 0;
 }
 
 i {
 	font-style: italic;
 }
-
-
-#menu {
-	float: right;
-	height: 125px;
-	margin: 0 auto;
-	padding: 0;
-}
-
-#menu ul {
-	margin: 0;
-	padding: 0 0 0 0;
-	list-style: none;
-	line-height: normal;
-}
-
-#menu li {
-	float: left;
-}
-
-#menu a {
-	display: block;
-	height: 80px;
-	padding: 45px 40px 0 10px;
-	text-decoration: none;
-	text-align: center;
-	text-transform: uppercase;
-	font-family: 'Abel', sans-serif;
-	font-size: 26px;
-	font-weight: normal;
-	color: black;
-	border: none;
-}
-
-#menu a:hover, #menu a {
-	text-decoration: none;
-}
-
 
 /* layout */
 
@@ -244,10 +223,10 @@ i {
 
 #sidebar {
 	float: left;
-	width: 300px;
+	width: 320px;
 	margin-left: -320px;
 	margin-top: 90px;
-	padding: 20px 20px 0 0;
+	padding: 20px 0 0 0;
 	display: block;
 	position: unset;
 }
@@ -311,7 +290,7 @@ i {
 	border: none;
 	color: #2f313a;
 	text-decoration: underline;
-	text-decoration-thickness: 2px;
+	text-decoration-thickness: 0;
 	cursor: pointer;
 }
 
@@ -327,7 +306,7 @@ i {
 }
 
 #sidebar a:active {
-	text-decoration-thickness: 4px;
+	text-decoration-thickness: 3px;
 }
 
 

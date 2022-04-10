@@ -3,7 +3,7 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">AC</h2>
+                    <h2 class="title">SH</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>

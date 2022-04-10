@@ -6,30 +6,46 @@
         <li>
             <h2>Courses</h2>
             <ul>
-                <li><a id="AIHRE" onclick="loadPost('AIHRE')">AI, Human Right & Ethics</a></li>
-                <li><a id="AC" onclick="loadPost('AC')">Artificial Creatures</a></li>
-                <li><a id="CC" onclick="loadPost('CC')">Computational Creativity</a></li>
-                <li><a id="CP" onclick="loadPost('CP')">Creative Program</a></li>
-                <li><a id="DGCI" onclick="loadPost('DGCI')">Digital Gov & Citizen Interaction</a></li>
-                <li><a id="EAM" onclick="loadPost('EAM')">Essentials in Art & Music</a></li>
-                <li><a id="HPC" onclick="loadPost('HPC')">Hardware & Physical Comp.</a></li>
-                <li><a id="HCI" onclick="loadPost('HCI')">HCI & Information Visualization</a></li>
-                <li><a id="MM" onclick="loadPost('MM')">Meta Media</a></li>
-                <li><a id="NHC" onclick="loadPost('NHC')">Non-Human Cognition</a></li>
-                <li><a id="PCS" onclick="loadPost('PCS')">Playful & Creative Science</a></li>
-                <li><a id="RF" onclick="loadPost('RF')">Research Fundamentals</a></li>
-                <li><a id="RSAI" onclick="loadPost('RSAI')">Research Seminar AI</a></li>
-                <li><a id="SH" onclick="loadPost('SH')">Science & Humanities</a></li>
-                <li><a id="SSI" onclick="loadPost('SSI')">Sound Space & Interaction</a></li>
+                <li><a class="Q4" id="AIHRE" onclick="loadPost('AIHRE')">AI, Human Right & Ethics</a></li>
+                <li><a class="Q2" id="AC" onclick="loadPost('AC')">Artificial Creatures</a></li>
+                <li><a class="Q3" id="CC" onclick="loadPost('CC')">Computational Creativity</a></li>
+                <li><a class="Q1" id="CP" onclick="loadPost('CP')">Creative Programming</a></li>
+                <li><a class="Q3" id="DGCI" onclick="loadPost('DGCI')">Digital Gov & Citizen Interaction</a></li>
+                <li><a class="Q1" id="EAM" onclick="loadPost('EAM')">Essentials in Art & Music</a></li>
+                <li><a class="Q1" id="HPC" onclick="loadPost('HPC')">Hardware & Physical Comp.</a></li>
+                <li><a class="Q1" id="HCI" onclick="loadPost('HCI')">HCI & Information Visualization</a></li>
+                <li><a class="Q1" id="MM" onclick="loadPost('MM')">Meta Media</a></li>
+                <li><a class="Q2" id="NHC" onclick="loadPost('NHC')">Non-Human Cognition</a></li>
+                <li><a class="Q1" id="PCS" onclick="loadPost('PCS')">Playful & Creative Science</a></li>
+                <li><a class="Q1" id="RF" onclick="loadPost('RF')">Research Fundamentals</a></li>
+                <li><a class="Q3" id="RSAI" onclick="loadPost('RSAI')">Research Seminar AI</a></li>
+                <li><a class="Q2" id="SH" onclick="loadPost('SH')">Science & Humanities</a></li>
+                <li><a class="Q2" id="SSI" onclick="loadPost('SSI')">Sound Space & Interaction</a></li>
             </ul>
         </li>
         <li>
-            <h2>Timestamp</h2>
+            <h2>DATE</h2>
             <ul>
-                <li><a >Semester 1 2020</a></li>
-                <li><a >Semester 2 2021</a></li>
-                <li><a >Semester 1 2021</a></li>
-                <li><a >Semester 2 2022</a></li>
+                <li>
+                    <a id="Q1" onclick="stayDate('Q1')" onmouseover="findDate('Q1')" onmouseout="unfindDate('Q1')">
+                        Semester 1 2020
+                    </a>
+                </li>
+                <li>
+                    <a id="Q2" onclick="stayDate('Q2')" onmouseover="findDate('Q2')" onmouseout="unfindDate('Q2')">
+                        Semester 2 2021
+                    </a>
+                </li>
+                <li>
+                    <a id="Q3" onclick="stayDate('Q3')" onmouseover="findDate('Q3')" onmouseout="unfindDate('Q3')">
+                        Semester 1 2021
+                    </a>
+                </li>
+                <li>
+                    <a id="Q4" onclick="stayDate('Q4')" onmouseover="findDate('Q4')" onmouseout="unfindDate('Q4')">
+                        Semester 2 2022
+                    </a>
+                </li>
             </ul>
         </li>
         <li>
