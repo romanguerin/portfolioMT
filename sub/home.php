@@ -18,7 +18,7 @@
                         <p>
                             You can check my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
                         </p>
-                        <img src="../images/thumbnail.png" style="width:50%" alt="img1">
+                        <img src="./images/thumbnail.png" style="width:50%" alt="img1">
                         <br/>
                         <p>
                             <i>I'm a creative technologist, meaning that I like to combine technology and design to

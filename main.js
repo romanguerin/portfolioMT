@@ -1,21 +1,23 @@
+
+
 let lastID = '';
 let boolLine = false;
 let dateStay = '';
 
 function loadPost(insert){
     //'sub/home.php'
-    let post = 'sub/' + insert + '.php'
+    let post = 'sub/' + insert + '.php';
     if (!insert.includes("Q")) {
         $(function () {
             $('#loadPost').load(post);
         });
     }
+    if (boolLine === true){
+        document.getElementById(lastID).style.textDecoration = "line-through";
+    }
     if (insert !== 'home') {
         document.getElementById(insert).style.textDecorationThickness = "4px";
         boolLine = true;
-    }
-    if (boolLine === true){
-        document.getElementById(lastID).style.textDecoration = "line-through";
     }
     lastID = insert;
 }
@@ -47,12 +49,12 @@ function stayDate(date) {
     dateStay = date;
     let ArrayQ = ["Q1","Q2","Q3","Q4"];
     for (let i = 0; i < ArrayQ.length; i ++) {
-        let fontA = document.getElementsByClassName(ArrayQ[i])
+        let fontA = document.getElementsByClassName(ArrayQ[i]);
         for (let j = 0; j < fontA.length; j++) {
             fontA[j].style.fontWeight = "normal";
         }
     }
-    let fontB = document.getElementsByClassName(date)
+    let fontB = document.getElementsByClassName(date);
     for (let j = 0; j < fontB.length; j++) {
         fontB[j].style.fontWeight = "bold";
     }
@@ -60,7 +62,7 @@ function stayDate(date) {
 }
 
 function findDate(date){
-    let font = document.getElementsByClassName(date)
+    let font = document.getElementsByClassName(date);
     for (let j = 0; j < font.length; j++) {
         font[j].style.fontWeight = "bold";
     }
@@ -68,9 +70,19 @@ function findDate(date){
 
 function unfindDate(date){
         if (date !== dateStay) {
-            let font = document.getElementsByClassName(date)
+            let font = document.getElementsByClassName(date);
             for (let j = 0; j < font.length; j++) {
                 font[j].style.fontWeight = "normal";
             }
         }
+}
+
+function tag() {
+    const box = document.getElementById("AIHRE");
+
+    if (box.textContent.includes('AI')) {
+        console.log('✅ world is contained in div');
+    } else {
+        console.log('⛔️ world is NOT contained in div');
+    }
 }

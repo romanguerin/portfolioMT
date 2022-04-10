@@ -51,15 +51,17 @@
         <li>
             <h2>TAGS</h2>
             <p>
-                <a>Immersive</a>
+                <a onclick="tag('Crea')">Creative</a>
                 -
-                <a>Code</a>
+                <a onclick="tag('Human')">Human</a>
                 -
-                <a>AI</a>
+                <a onclick="tag('AI')">AI</a>
                 -
-                <a>Art</a>
+                <a onclick="tag('Reasearch')">Research</a>
                 -
-                <a>Hardware</a>
+                <a onclick="tag('Hardware')">Hardware</a>
+                -
+                <a onclick="tag('computational')">Computational</a>
             </p>
         </li>
         <div id="footer">
