@@ -51,17 +51,19 @@
         <li>
             <h2>TAGS</h2>
             <p>
-                <a onclick="tag('Crea')">Creative</a>
+                <a onmouseover="tag('Crea')">Creative</a>
                 -
-                <a onclick="tag('Human')">Human</a>
+                <a onmouseover="tag('Human')">Human</a>
                 -
-                <a onclick="tag('AI')">AI</a>
+                <a onmouseover="tag('AI')">AI</a>
                 -
-                <a onclick="tag('Reasearch')">Research</a>
+                <a onmouseover="tag('Reasearch')">Research</a>
                 -
-                <a onclick="tag('Hardware')">Hardware</a>
+                <a onmouseover="tag('Hardware')">Hardware</a>
                 -
-                <a onclick="tag('computational')">Computational</a>
+                <a onmouseover="tag('computational')">Computational</a>
+                -
+                <a onmouseover="tag('Science')">Science</a>
             </p>
         </li>
         <div id="footer">

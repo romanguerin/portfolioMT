@@ -3,6 +3,7 @@
 let lastID = '';
 let boolLine = false;
 let dateStay = '';
+let arrCourses = [""];
 
 function loadPost(insert){
     //'sub/home.php'
@@ -77,12 +78,16 @@ function unfindDate(date){
         }
 }
 
-function tag() {
-    const box = document.getElementById("AIHRE");
-
-    if (box.textContent.includes('AI')) {
+function tag(tags) {
+    let box = document.getElementById(tags);
+    //loop through all tags.
+    if (box.textContent.includes(tags)) {
         console.log('✅ world is contained in div');
     } else {
         console.log('⛔️ world is NOT contained in div');
     }
+}
+
+function unTag(){
+
 }
