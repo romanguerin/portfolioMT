@@ -26,6 +26,7 @@
     }
     #content{
         width: 320px;
+        padding-left: 600px;
     }
     #wrapper, #header{
         float: right;

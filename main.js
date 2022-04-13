@@ -24,7 +24,8 @@ function loadPost(insert){
 $(document).scroll(function() {
     let myScrollFunc = function () {
         let y = window.scrollY;
-        if (y > 200) {
+        let x = window.scrollX;
+        if (y >= 200) {
             document.getElementById("sidebar").style.position = "unset";
             document.getElementById("sidebar").style.marginLeft = "-320px";
             document.getElementById("header").style.position = "unset";
@@ -37,7 +38,19 @@ $(document).scroll(function() {
             document.getElementById("header").style.position = "fixed";
             document.getElementById("header").style.paddingTop = "0px";
             document.getElementById("sidebar").style.paddingTop = "20px";
-
+        }
+        if (x>0){
+            document.getElementById("sidebar").style.position = "unset";
+            document.getElementById("sidebar").style.marginLeft = "-320px";
+            document.getElementById("header").style.position = "unset";
+        }
+        if (y >= 100 && x>0){
+            document.getElementById("header").style.paddingTop = "100px";
+            document.getElementById("sidebar").style.paddingTop = "120px";
+        }
+        if (y >= 200 && x>0){
+            document.getElementById("header").style.paddingTop = "200px";
+            document.getElementById("sidebar").style.paddingTop = "140px";
         }
     };
 
