@@ -3,20 +3,35 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">DGCI</h2>
+                    <h2 class="title">Digital Government Citizen Interaction</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
-                        <br/>
-                        <p><i>My name is Roman Guerin bla bla</i>
+                        <br/><br/><br/><br/>
+                        <p><i>Semester 1 2021</i>
                         </p>
                         <br/>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
+                        <p>With Digital Government Citizen Interaction I made an essay on the use of AI.gov as a case study.</p>
+                        <br/><p>
+                            <strong>Abstract</strong>
                         </p>
+                        <p>
+                            In the summer of 2019, the White House held a summit on artificial intelligence (A.I.) and
+                            its use in the government. This conference highlighted the innovative efforts
+                            at Federal agencies and looked into the future for transformative A.I. applications. A couple
+                            of months later, the Federal Government of the United States launched AI.gov, a public website
+                            to access all governmental A.I. initiatives, information and data that are currently underway.
+                            This essay will focus on the launch of AI.gov as a way to see if Artificial intelligence
+                            can help government agencies in the public-sector.
+                            And to see if this initiative is an approach to gain the public trust in the government by
+                            being transparent.
+                        </p>
+                        <h3>Essay</h3>
+                        <a style ="color: black" href="../pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
+                            RomanGuerin DGCI Essay assignment.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p><i>Is the launch of AI.gov a transparent way to gain public trust?</i><br/>
+                            2021, <strong>Guerin, R.N.</strong></p>
                         <br/>
-                        <p>Well let’s take out the two most important words to better understand the meaning of this question.
-                            <strong>Virtual </strong> and <strong>Experience.</strong>
-                        </p>
-
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>

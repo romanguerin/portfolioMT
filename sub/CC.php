@@ -3,25 +3,58 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">CC</h2>
+                    <h2 class="title">Computational Creativity</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>My name is Roman Guerin bla bla</i>
-                        </p>
+                        <p><i>Semester 1 2021</i></p>
                         <br/>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
-                        </p>
+                        <p>Three major assignments where part of this course</p>
                         <br/>
-                        <p>Well let’s take out the two most important words to better understand the meaning of this question.
-                            <strong>Virtual </strong> and <strong>Experience.</strong>
-                        </p>
-
-                    </div>
-                </div>
-                <div style="clear: both;">&nbsp;</div>
-            </div>
-            <div style="clear: both;">&nbsp;</div>
-        </div>
-    </div>
+                        <!-- Assignment 1-->
+                        <h3>Assignment 1</h3>
+                        <a style ="color: black" href="../pdf/Computational Creativity - Assignment 1 - Marinus van den Oever & Roman Guerin - Cookbook.pdf" target="_blank">
+                            Assignment 1 Cook Book.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <br/>
+                        <a style ="color: black" href="../pdf/Computational Creativity - Assignment 1 - Marinus van den Oever & Roman Guerin - Logbook.pdf" target="_blank">
+                            Assignment 1 Log Book.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p>2021, <strong>Guerin, R.N. - Van den Oever, M.</strong></p>
+                        <a style ="color: black" href="https://editor.p5js.org/romanguerin/full/Mg-90G_mU" target="_blank">
+                            <img src="./images/Cook.png" style="width:100%" alt="img1">Link
+                        </a>
+                        <br/>
+                        <br/>
+                        <!-- Assignment 2-->
+                        <h3>Assignment 2</h3>
+                        <a style ="color: black" href="../pdf/Computational Creativity - Assignment 2 - Marinus van den Oever & Roman Guerin - Poetry Book.pdf" target="_blank">
+                            Assignment 2 Poetry Book.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <br/>
+                        <a style ="color: black" href="../pdf/Computational Creativity - Assignment 2 - Marinus van den Oever & Roman Guerin - Logbook.pdf" target="_blank">
+                            Assignment 2 Log Book.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p>2021, <strong>Guerin, R.N. - Van den Oever, M.</strong></p>
+                        <a style ="color: black" href="https://editor.p5js.org/romanguerin/sketches/RkBlHHMuY" target="_blank">
+                            <img src="./images/Poetry.png" style="width:100%" alt="img1">Link
+                        </a>
+                        <br/>
+                        <br/>
+                        <!-- Assignment 3-->
+                        <h3>Assignment 3</h3>
+                        <a style ="color: black" href="../pdf/Paper_CC_Ass3_group6_RomanFloorIris.pdf" target="_blank">
+                            Assignment 3 Paper.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p>2021, <strong>Guerin, R.N. - Stolk, F. - De Vries, I.</strong></p>
+                        <a style ="color: black" href="https://editor.p5js.org/romanguerin/full/QCVskRFB_" target="_blank">
+                        <img src="./images/Clay.png" style="width:100%" alt="img1">Link
+                        </a>
+                 </div>
+             </div>
+             <div style="clear: both;">&nbsp;</div>
+         </div>
+         <div style="clear: both;">&nbsp;</div>
+     </div>
+ </div>
 </div>

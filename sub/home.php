@@ -27,27 +27,12 @@
                         </p>
                         <br/>
                         <br/>
-                        <h3>
-                            "Provide the audience with a clear sense of status. More so than anything else—immersion, choice, etc.
-                        </h3>
-                        <br/>
-                        <strong>Experience</strong>
+                        <strong>Media Technology</strong>
                         <p>
-                            <i>Something that happens to you that affects how you feel</i>
-                        </p>
-                        <br/>
-                        <strong>Immersive</strong>
-                        <h3>
-                            “If the player's self isn't imported into the world, it's all paper thin.
-                            They have to project themselves into it in some way. They need to hear their breath in order for it to be alive."
-                        </h3>
-                        <p>
-                            <i>~Christy Dena, writer-designer-director at Universe Creation 101</i>
-                        </p>
-                        <br/>
-                        <p>
-                            <i>This image is what you can call evocative, One of the earliest and more important
-                                immersive worlds can be found. Because they were there 30.000 years ago.</i>
+                            At the end of my bachelor Communication & Multi Media Design, I started to get
+                            in touch with the use Artificial Intelligence, and I knew this was a direction I wanted to go
+                            into. Even though my internship offered me a job, I felt that doing a Master would be a future
+                            I wanted to explore.
                         </p>
                         <br/>
                     </div>

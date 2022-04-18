@@ -3,20 +3,42 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">EAM</h2>
+                    <h2 class="title">Essentials in Art & Music</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>My name is Roman Guerin bla bla</i>
+                        <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
+                        <p>Two major assignments where part of this course.</p>
+                        <br/>
+                        <h3>Assignment 1</h3>
+                        <a style ="color: black" href="../pdf/RomanGuerin_Essay_EssentialsA&M_2.pdf" target="_blank">
+                            RomanGuerin EAM Essay assignment 1.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p><i>Immersion in art and music</i><br/>
+                            2020, <strong>Guerin, R.N.</strong></p>
+                        <br/>
+                        <br/><p>
+                            <strong>Abstract</strong>
+                        </p>
+                        <p>
+                            Media Technology, today we take for granted that media technology has become a significant
+                            impact on our lives. We use it as a method or a tool to create, produce and compose new media.
+                            As well to support human communication over distances in time and space. [1] The medium ranges
+                            from common media types like photography, video, information and interactive media. However,
+                            why could these new technologies be seen as a base for the movement of Modernism? First,
+                            let us categorize these media technologies in four different groups by historical value:
+                            Art media, print media, electronic media and digital media.
                         </p>
                         <br/>
-                        <p>Well let’s take out the two most important words to better understand the meaning of this question.
-                            <strong>Virtual </strong> and <strong>Experience.</strong>
-                        </p>
-
+                        <h3>Assignment 2</h3>
+                        <a style ="color: black" href="../pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
+                            RomanGuerin EAM Essay assignment 2.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        </a>
+                        <p><i>Media art in (Post)Modernism: Turning to new media technology</i><br/>
+                            2020, <strong>Guerin, R.N.</strong></p>
+                        <br/>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>
