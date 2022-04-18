@@ -39,8 +39,8 @@
                         </p>
                         <br/>
                         <h3>Paper</h3>
-                        <a style ="color: black" href="../pdf/AI_Human_Rights_Ethics_Group_4.pdf" target="_blank">
-                            AI Human Rights Ethics Group 4.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        <a style ="color: black" href="./pdf/AI_Human_Rights_Ethics_Group_4.pdf" target="_blank">
+                            AI Human Rights Ethics Group 4.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <p><i>The Responsible Implementation of Artificial
                                 Intelligence in Childcare </i><br/>

@@ -13,8 +13,8 @@
                         <p>Two major assignments where part of this course.</p>
                         <br/>
                         <h3>Assignment 1</h3>
-                        <a style ="color: black" href="../pdf/RomanGuerin_Essay_EssentialsA&M_2.pdf" target="_blank">
-                            RomanGuerin EAM Essay assignment 1.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        <a style ="color: black" href="./pdf/RomanGuerin_Essay_EssentialsA&M_2.pdf" target="_blank">
+                            RomanGuerin EAM Essay assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <p><i>Immersion in art and music</i><br/>
                             2020, <strong>Guerin, R.N.</strong></p>
@@ -33,8 +33,8 @@
                         </p>
                         <br/>
                         <h3>Assignment 2</h3>
-                        <a style ="color: black" href="../pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
-                            RomanGuerin EAM Essay assignment 2.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        <a style ="color: black" href="./pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
+                            RomanGuerin EAM Essay assignment 2.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <p><i>Media art in (Post)Modernism: Turning to new media technology</i><br/>
                             2020, <strong>Guerin, R.N.</strong></p>

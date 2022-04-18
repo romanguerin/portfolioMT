@@ -14,13 +14,13 @@
                         <br/>
                         <h3>P5JS</h3>
                         <a style ="color: black" href="https://editor.p5js.org/romanguerin/collections/RbauQGeJw" target="_blank">
-                            Assignment Creative programming p5js assignment collection<img alt="pdf" id="ico" src="../images/www.png">
+                            Assignment Creative programming p5js assignment collection<img alt="pdf" id="ico" src="./images/www.png">
                         </a>
                         <br/>
                         <br/>
                         <h3>Pure Data</h3>
-                        <a style ="color: black" href="../zip/pd.zip" target="_blank">
-                            Assignment Creative programming pd assignment collection<img alt="pdf" id="ico" src="../images/rar.png">
+                        <a style ="color: black" href="./zip/pd.zip" target="_blank">
+                            Assignment Creative programming pd assignment collection<img alt="pdf" id="ico" src="./images/rar.png">
                         </a>
 
                     </div>

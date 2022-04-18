@@ -26,8 +26,8 @@
                             being transparent.
                         </p>
                         <h3>Essay</h3>
-                        <a style ="color: black" href="../pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
-                            RomanGuerin DGCI Essay assignment.pdf<img alt="pdf" id="ico" src="../images/PDF-icon-small.png">
+                        <a style ="color: black" href="./pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
+                            RomanGuerin DGCI Essay assignment.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <p><i>Is the launch of AI.gov a transparent way to gain public trust?</i><br/>
                             2021, <strong>Guerin, R.N.</strong></p>

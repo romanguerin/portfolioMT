@@ -3,19 +3,39 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">NHC</h2>
+                    <h2 class="title">Non Human Cognition</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>My name is Roman Guerin bla bla</i>
+                        <p><i>Semester 2 2021</i>
                         </p>
                         <br/>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
-                        </p>
+                        <p>A course about non human cognition</p>
                         <br/>
-                        <p>Well let’s take out the two most important words to better understand the meaning of this question.
-                            <strong>Virtual </strong> and <strong>Experience.</strong>
-                        </p>
+                        <img src="./images/nhc-poster-5.png" style="width:100%" alt="img1">
+                        <br/>
+                        <br/>
+                        <h3>Video</h3>
+                        <iframe style="margin: 5px 0 5px 0" width="100%" height="360px"
+                                src="https://youtube.com/embed/gTy4UBLPyCE">
+                        </iframe>
+                        <p><i>Spontaneous AI</i></p>
+                        <br/>
+                        <h3>Assignment</h3>
+                        <br/>
+                        <p>Justifying Bateson and Laland<br/>
+                        <a style ="color: black" href="./pdf/NHC2020HW1_s2726092.pdf" target="_blank">
+                            Assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
+                        </a></p>
+                        <p>Altruism in the survival of the fittest</p><br/>
+                        <a style ="color: black" href="./pdf/NHC2020HW2_s2726092.pdf" target="_blank">
+                            Assignment 2.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
+                        </a></p>
+                        <p>Language is a complex communication system<br/>
+                        <a style ="color: black" href="./pdf/NHC2020HW3_s2726092.pdf" target="_blank">
+                            Assignment 2.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
+                        </a></p>
+                        <p>2021, <strong>Guerin, R.N.</strong></p>
 
                     </div>
                 </div>

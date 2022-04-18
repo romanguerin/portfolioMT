@@ -165,9 +165,13 @@ i {
 /* Content */
 
 #content {
-	float: right;
 	width: 700px;
 	padding-top: 70px;
+    /*padding-left: 380px;*/
+}
+
+#loadPost{
+ padding-left: 380px;
 }
 
 .post {
@@ -205,13 +209,6 @@ i {
 	padding-top: 40px;
 }
 
-.post .meta {
-	float: left;
-}
-
-.post .links {
-	float: right;
-}
 
 .links a {
 }
