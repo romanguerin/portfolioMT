@@ -3,20 +3,38 @@
         <div id="page-bgbtm">
             <div id="content">
                 <div class="post" id="home">
-                    <h2 class="title">RF</h2>
+                    <h2 class="title">Research Fundamentals</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>My name is Roman Guerin bla bla</i>
+                        <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
-                        </p>
+                        <p>For Research Fundamentals we had to make an abstract and 7 papers assignment</p>
+                        <h3>Essay</h3>
+                        <a style ="color: black" href="./pdf/GuerinRoman_WriteanAbstract.pdf" target="_blank">
+                            RomanGuerin assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
+                        </a>
+                        <p><i>Context-Dependent Memory in Real and Virtual Reality</i><br/>
+                            2020, <strong>Guerin, R.N.</strong></p>
                         <br/>
-                        <p>Well let’s take out the two most important words to better understand the meaning of this question.
-                            <strong>Virtual </strong> and <strong>Experience.</strong>
+                        <h3>7 Papers</h3>
+                        <br/>
+                        <p>
+                            <strong>Abstract</strong><br/>
+                            There is a growing interest in the research of chatbots, also known as artificial agents, and their use as
+                            social support for humans, especially in the field of addressing people in stressful situations or health
+                            improvements. However, not much research is available in the use of chatbots in the context of everyday
+                            social interaction to address social isolation and loneliness. Examples include providing a safe space
+                            in which people can discuss anything without fear of judgment or retaliation by giving them positive
+                            messages, and providing helpful advice when other sources or communication are not available.
                         </p>
-
+                        <a style ="color: black" href="./pdf/The Age of Loneliness_ the use of chatbots against social isolation.pdf" target="_blank">
+                            Research assignment 2.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
+                        </a>
+                        <p><i>The age of loneliness: the use of chatbots against social isolation</i><br/>
+                            2020, <strong>Guerin, R.N.</strong></p>
+                        <br/>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>

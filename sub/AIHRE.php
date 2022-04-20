@@ -15,10 +15,9 @@
                             responsible implementation of Artificial Intelligence in Childcare.
                         </p>
                         <br/>
+                        <h3>Paper</h3><br/>
                         <p>
-                            <strong>Abstract</strong>
-                        </p>
-                        <p>
+                            <strong>Abstract</strong><br/>
                             Artificial intelligence has increasingly become part of the
                             daily lives of today’s generation. However, it is still debated how AI
                             applications affect children when they interact with them from an early
@@ -38,7 +37,6 @@
                             medical practitioners should incorporate it into childcare.
                         </p>
                         <br/>
-                        <h3>Paper</h3>
                         <a style ="color: black" href="./pdf/AI_Human_Rights_Ethics_Group_4.pdf" target="_blank">
                             AI Human Rights Ethics Group 4.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>

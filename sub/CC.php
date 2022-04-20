@@ -22,7 +22,7 @@
                         </a>
                         <p>2021, <strong>Guerin, R.N. - Van den Oever, M.</strong></p>
                         <a style ="color: black" href="https://editor.p5js.org/romanguerin/full/Mg-90G_mU" target="_blank">
-                            <img src="./images/Cook.png" style="width:100%" alt="img1">Link
+                            <img src="./images/Cook.png" style="width:100%" alt="img1">The Great Snellius Bake Off
                         </a>
                         <br/>
                         <br/>
@@ -37,7 +37,7 @@
                         </a>
                         <p>2021, <strong>Guerin, R.N. - Van den Oever, M.</strong></p>
                         <a style ="color: black" href="https://editor.p5js.org/romanguerin/sketches/RkBlHHMuY" target="_blank">
-                            <img src="./images/Poetry.png" style="width:100%" alt="img1">Link
+                            <img src="./images/Poetry.png" style="width:100%" alt="img1">Bad Poets Society
                         </a>
                         <br/>
                         <br/>
@@ -48,7 +48,7 @@
                         </a>
                         <p>2021, <strong>Guerin, R.N. - Stolk, F. - De Vries, I.</strong></p>
                         <a style ="color: black" href="https://editor.p5js.org/romanguerin/full/QCVskRFB_" target="_blank">
-                        <img src="./images/Clay.png" style="width:100%" alt="img1">Link
+                        <img src="./images/Clay.png" style="width:100%" alt="img1">Research Project
                         </a>
                  </div>
              </div>

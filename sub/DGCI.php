@@ -11,10 +11,10 @@
                         </p>
                         <br/>
                         <p>With Digital Government Citizen Interaction I made an essay on the use of AI.gov as a case study.</p>
-                        <br/><p>
-                            <strong>Abstract</strong>
-                        </p>
+                        <br/>
+                        <h3>Essay</h3><br/>
                         <p>
+                            <strong>Abstract</strong><br/>
                             In the summer of 2019, the White House held a summit on artificial intelligence (A.I.) and
                             its use in the government. This conference highlighted the innovative efforts
                             at Federal agencies and looked into the future for transformative A.I. applications. A couple
@@ -25,7 +25,6 @@
                             And to see if this initiative is an approach to gain the public trust in the government by
                             being transparent.
                         </p>
-                        <h3>Essay</h3>
                         <a style ="color: black" href="./pdf/RomanGuerin_DGCI_Essay_assignment_2.pdf" target="_blank">
                             RomanGuerin DGCI Essay assignment.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>

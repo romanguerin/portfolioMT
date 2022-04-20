@@ -31,12 +31,26 @@
                             Assignment Design Document.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <br/>
+                        <br/>
+                        <h3>Paper</h3>
+                        <br/>
+                        <p>
+                            <strong>Abstract</strong><br/>
+                            Temperature is something that is always present, you can constantly feel it.
+                            However, in most cases, it is rarely used as a way to convey information. The
+                            addition of temperature as a way of displaying or conveying something is a
+                            relatively unexplored area. We took the opportunity to work on this new interaction,
+                            and we have shown that images can be expressed through the sensation of
+                            temperature and can be used as an additional way to experience art. A creative
+                            approach using the so-called Peltier elements helped us realise this work.
+                        </p>
                         <a style ="color: black" href="./pdf/GROUP23_FinalPaper_ThermalArt.pdf" target="_blank">
                             Assignment Paper.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <p>2020, <strong>Guerin, R.N. - Van Daalen, P.</strong></p>
                         <br/>
                         <img src="./images/1.Setup.JPEG" style="width:100%" alt="img1">
+                        <p><i>Setup with Peltier Elements</i></p>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>
@@ -45,3 +59,4 @@
         </div>
     </div>
 </div>
+

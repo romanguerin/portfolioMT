@@ -16,7 +16,16 @@
                         <p>Well let’s take out the two most important words to better understand the meaning of this question.
                             <strong>Virtual </strong> and <strong>Experience.</strong>
                         </p>
+                        <iframe
+                                src="https://docs.google.com/presentation/d/e/2PACX-1vSTFycjQ1w77bifDyRRmYFp0dv8AIaK8IxEbLqe-ZtNeVZ46UyLQwx_GcdFFgZrML_Iu0GvoeHmZ-Yt/embed?start=false&loop=false&delayms=3000"
+                                frameborder="0"
+                                width="600"
+                                height="376"
+                                allowfullscreen="true"
+                                mozallowfullscreen="true"
+                                webkitallowfullscreen="true">
 
+                        </iframe>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>
