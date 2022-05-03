@@ -7,12 +7,13 @@
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>Semester 1 2021 - Semester 2022</i>
+                        <p><i>Semester 1, 2021 - Semester 2, 2022</i>
                         </p>
                         <br/>
-                        <p>This course was in collaboration with the university of munster and the university of Twente
-                                about AI, Human Right & Ethics from multiple speakers. We chose to write a paper on the
-                            responsible implementation of Artificial Intelligence in Childcare.
+                        <p>This course was a collaboration with the University of Munster and the University of Twente
+                            about AI, Human rights & Ethics. These lectures concluded with speakers from the European Union
+                            and Academics in the field of AI. For the assignment, we choose as a group of four to write
+                            a paper on the responsible implementation of Artificial Intelligence in Childcare.
                         </p>
                         <br/>
                         <h3>Paper</h3><br/>

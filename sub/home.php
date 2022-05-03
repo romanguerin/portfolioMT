@@ -13,18 +13,15 @@
                         </p>
                         <br/>
                         <strong>About me</strong>
-                        <p>I did a bachelor communication & multi Media Design and my internship at AC3 Studio</strong>
+                        <p>I'm a creative technologist, meaning that I like to combine technology and design to
+                            create an immersive experience.
+                            Previously, I did a Bachelor<a style ="color: black" href="https://www.avans.nl/studeren/opleidingen/communication--multimedia-design/voltijd"> Communication & Multimedia Design </a>
+                            and my internship at <a style ="color: black" href="https://ac3-studio.com/">AC3 Studio.</a>
+                            Furthermore, You can check my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
                         </p>
-                        <p>
-                            You can check my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
-                        </p>
-                        <img src="./images/thumbnail.png" style="width:50%" alt="img1">
                         <br/>
-                        <p>
-                            <i>I'm a creative technologist, meaning that I like to combine technology and design to
-                                create an immersive experience. Furthermore I'm interested in the field of AI and especially
-                                the bias that comes with it.</i>
-                        </p>
+                        <img src="./images/me.jpg" style="width:100%" alt="img1">
+                        <br/>
                         <br/>
                         <br/>
                         <strong>Media Technology</strong>

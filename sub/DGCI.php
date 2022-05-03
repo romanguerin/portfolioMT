@@ -10,7 +10,10 @@
                         <p><i>Semester 1 2021</i>
                         </p>
                         <br/>
-                        <p>With Digital Government Citizen Interaction I made an essay on the use of AI.gov as a case study.</p>
+                        <p>With Digital Government Citizen Interaction, We explored digital interactions between governments
+                            and citizens. With a focus on policymaking and digital-era governance and the interaction between
+                            civil servants and citizens. I wrote an essay on the role of Artificial intelligence in government
+                            decisions and the website AI.gov as a source of information.</p>
                         <br/>
                         <h3>Essay</h3><br/>
                         <p>

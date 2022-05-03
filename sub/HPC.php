@@ -10,7 +10,11 @@
                         <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>For this course we had to do a hardware project and made Artificialis Photosynthesis.
+                        <p>This course introduced us to physical computing and interfacing via the Arduino open-source
+                            hardware platform. In addition, and as a major assignment, we had to make our hardware prototype
+                            that worked thoroughly on its own. We designed an ‘artificial’ plant made from electronic waste.
+                            This plant will (partly) simulate photosynthesis that is present in real plants, which is why
+                            we called our project ‘Artificialis Photosynthesis’.
                         </p>
                         <br/>
                             <img src="./images/boom.gif" style="width:100%" alt="img1">

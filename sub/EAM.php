@@ -10,7 +10,10 @@
                         <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>Two major assignments where part of this course.</p>
+                        <p>For essentials in Art and Music, we explored five different narratives in the creation of art.
+                            Therefore, we had to do two essays to demonstrate our understanding of the narratives and debate
+                            the work presented in the lectures. For the final assignment, we had to write a sixes narrative
+                            and a discipline in art and music.</p>
                         <br/>
                         <h3>Assignment 1</h3>
                         <a style ="color: black" href="./pdf/RomanGuerin_Essay_EssentialsA&M_2.pdf" target="_blank">

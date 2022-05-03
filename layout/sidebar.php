@@ -53,7 +53,7 @@
             <p>
                 <a onmouseover="tag('AI')" onmouseout="unTag()">AI</a>
                 -
-                <a onmouseover="tag('comp')" onmouseout="unTag()">Computational</a>
+                <a onmouseover="tag('Comp')" onmouseout="unTag()">Computational</a>
                 -
                 <a onmouseover="tag('Creati')" onmouseout="unTag()">Creative</a>
                 -

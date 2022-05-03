@@ -8,7 +8,12 @@
                     <div class="entry">
                         <br/>
                         <p><i>Semester 2 2021</i>
-                        </p>
+                        </p><br/>
+                        <p>For this course, we had to build an Artificial Creature by philosophy-by-doing.
+                            The goal was not to focus on technology but on the characteristics of what makes us human.
+                            Therefore, we explored various ways to create a small creature named Freddy who is shy about
+                            singing in public but sings it longs out when alone. However, it was quite a task to put that
+                            much technology in such a small package. </p>
                         <br/>
                         <h3>Freddy the Robot
                         </h3>

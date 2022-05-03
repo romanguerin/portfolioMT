@@ -9,7 +9,10 @@
                         <br/>
                         <p><i>Semester 1 2021</i></p>
                         <br/>
-                        <p>Three major assignments where part of this course</p>
+                        <p>We explored computational models of creative processes, agents, and creative societies' simulations.
+                            Furthermore, the lecturer let us explore different approaches to developing autonomous creative systems
+                            and collaborative, co-creative systems. We had to make genetic algorithms, Markov chains,
+                            and a co-creative system as assignments.</p>
                         <br/>
                         <!-- Assignment 1-->
                         <h3>Assignment 1</h3>
