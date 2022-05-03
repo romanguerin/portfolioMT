@@ -9,7 +9,12 @@
                         <p><i>Semester 2 2021</i>
                         </p>
                         <br/>
-                        <p>Sound space & Interaction</p>
+                        <p>The Sound, Space and Interaction course focused on created and existing interrelations between
+                            Sound, Space and Interaction. It addressed sound-based interaction, structuring interaction
+                            in space and structuring sound in space. Furthermore, we used an open-source visual programming
+                            language called pure data for multimedia as a development platform. We made a guessing game where
+                            the sound came from 6 different directions. You had to face blindfolded in that direction with
+                            the help of hardware. </p>
                         <br/>
                         <h3>Video</h3>
                         <iframe style="margin: 5px 0 5px 0" width="100%" height="360px"

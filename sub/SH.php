@@ -10,7 +10,12 @@
                         <p><i>Semester 2 2021</i>
                         </p>
                         <br/>
-                        <p>A course about Science & Humanities</p>
+                        <p>For Sciences and Humanities, we identified some of the "cultural differences" between the different
+                            fields regarding their methods, relationship to society, epistemological values, and attitude
+                            towards knowledge-finding and "the truth". Philosophy and the history of science were discussed,
+                            from Descartes to Rorty, Popper to Feyerabend, Copernicus to Newton, and Kant to Wittgenstein.
+                            I enjoyed writing the small essays, and I made a video where I explained the problems of an explanation
+                            video from the University of Leiden about Karl Popper. </p>
                         <br/>
                         <h3>Video</h3>
                         <iframe style="margin: 5px 0 5px 0" width="100%" height="360px"
@@ -35,7 +40,7 @@
                         <p><i>A reflection on Victor Gijsbers view of Karl Popper and the logic of falsification</i><br/>
                             2021, <strong>Guerin, R.N.</strong></p>
                         <br/>
-                        <h3>Assignment</h3>
+                        <h3>Assignments</h3>
                         <br/>
                         <p>Homework Assignment 1<br/>
                             <a style ="color: black" href="./pdf/GuerinRoman_HomeworkAssigment_1.pdf" target="_blank">

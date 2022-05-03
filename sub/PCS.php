@@ -6,11 +6,16 @@
                     <h2 class="title">Playful & Creative Science</h2>
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
-                        <br/><br/><br/><br/>
+                        <br/>
                         <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>Playful And Creative Science ad two major assignments</p>
+                        <p>In the course Playful & Creative Science"  we discussed unconventional and playful ways of doing science.
+                            This was done by asking questions, executing research and formulating answers.
+                            We were taught to think outside of the box when it comes to research.
+                            The first assignment was about finding a creative scientist.
+                            For the second assignment, we had to do creative research in which we looked at if people
+                            visited nature reserves more often during the corona pandemic. </p>
                         <h3>Essay</h3>
                         <a style ="color: black" href="./pdf/GuerinRoman_2021-WN_P&CS.pdf" target="_blank">
                             RomanGuerin assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">

@@ -10,10 +10,15 @@
                         <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>A one week full time course about memes
+                        <p>The creation of a piece of art implies the choice of the medium; in this course, Meta Media,
+                            we learned to integrate this choice into the artistic process. The theme of this one week course was:
+                            Memes. We, as a theme, took it a bit further and understood memes as a way to change the commen
+                            perception of a medium. Thus deepfake seemed a good medium to explore this theme.
+                            Therefore we came up with a company and made a website that had an ‘algorithm’ to detect deepfakes called Fairify.
                         </p>
                         <img src="./images/mark.gif" style="width:100%" alt="img1">
                         <br/>
+                        <h3>Website</h3>
                         <a style ="color: black" href="https://fairify.tobiasvanderklei.nl/home/" target="_blank">
                             Website Fairify Inc. – The only, best and open source AI Deepfake detector
                         </a>
@@ -25,6 +30,14 @@
                         </iframe>
                         <p>Fairify Inc</p>
                         <br/>
+                        <h3>META</h3>
+                        <p>In a modern-day digital society, technology can make it look as if anyone has said or done anything.
+                            The upsurge of deep fakes is an enormous prospective problem for truth as we know it. With Fairify Inc.,
+                            we bring autonomous knowledge verification back to the public. Using a new approach to deconstruct and
+                            analyze deep fakes, our free-to-use program predicts the evolution of upcoming deep fakes. This way,
+                            it does not only correctly determine the authenticity of 99.2% of current videos, but keeps this
+                            record for newer deep fakes generated after the release of our project. With Fairify Inc., the
+                            trust that truth deserves can be restored.</p>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>

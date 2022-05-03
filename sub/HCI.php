@@ -10,7 +10,11 @@
                         <p><i>Semester 1 2020</i>
                         </p>
                         <br/>
-                        <p>We conducted research with Thermal Art
+                        <p>With Human Computer Interaction, we learned about man-machine interfaces. In particular, the
+                            case for systems that require interaction is an essential ingredient for its normal operation
+                            with computers and computer programs. With this course, MediaTech students and Computer science
+                            students worked together to make an HCI assignment. We chose to work on BioFeedback and computer
+                            interfaces as a new meaning to perceive Art.
                         </p>
                         <br/>
                         <img src="./images/Van-Gogh_test_3.jpg" style="width:100%" alt="img1">
@@ -31,7 +35,7 @@
                             Assignment Design Document.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
                         <br/>
-                        <br/>
+                        <br/><br/>
                         <h3>Paper</h3>
                         <br/>
                         <p>

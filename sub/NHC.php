@@ -10,7 +10,12 @@
                         <p><i>Semester 2 2021</i>
                         </p>
                         <br/>
-                        <p>A course about non human cognition</p>
+                        <p>With this course, we took an interdisciplinary look at studies investigating the behaviour of
+                            non-human animals and computational cognitive modelling, which taught us about cognition.
+                            Furthermore, we looked into cognitive processes that involve breaking them down into more
+                            fundamental computational subparts. As an assignment, we had to write multiple small essays
+                            and had one major assignment for which we had to make a poster. Our poster was about
+                            spontaneousness AI. </p>
                         <br/>
                         <h3>Poster</h3>
                         <img src="./images/nhc-poster-5.png" style="width:100%" alt="img1">
@@ -22,7 +27,7 @@
                         </iframe>
                         <p><i>Spontaneous AI</i></p>
                         <br/>
-                        <h3>Assignment</h3>
+                        <h3>Assignments</h3>
                         <br/>
 
                         <p>Justifying Bateson and Laland<br/>
