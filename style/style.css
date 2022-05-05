@@ -38,6 +38,11 @@ h3 {
 p, ul, ol, i, strong {
 	margin-top: 0;
 	line-height: 120%;
+	text-align: justify;
+}
+
+i {
+	text-align: left;
 }
 
 ul, ol {

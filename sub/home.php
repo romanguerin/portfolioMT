@@ -7,17 +7,17 @@
                     <!--The vivid dream reseach post 1-->
                     <div class="entry">
                         <br/>
-                        <p><i>This portfolio includes all courses I followed during the Media Technology Program at the
-                                university of Leiden in which I got accepted in 2020.
+                        <p><i>This portfolio includes all courses I followed during the Media Technology pro- gram at the
+                                university of Leiden (LIACS) in which I got accepted in September 2020.
                             </i>
                         </p>
                         <br/>
                         <strong>About me</strong>
-                        <p>I'm a creative technologist, meaning that I like to combine technology and design to
+                        <p>I'm a creative technologist, therefore I like to combine technology and design to
                             create an immersive experience.
                             Previously, I did a Bachelor<a style ="color: black" href="https://www.avans.nl/studeren/opleidingen/communication--multimedia-design/voltijd"> Communication & Multimedia Design </a>
-                            and my internship at <a style ="color: black" href="https://ac3-studio.com/">AC3 Studio.</a>
-                            Furthermore, You can check my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
+                            and my internship in Paris at <a style ="color: black" href="https://ac3-studio.com/">AC3 Studio.</a>
+                           You can check work on my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
                         </p>
                         <br/>
                         <img src="./images/me.jpg" style="width:100%" alt="img1">
@@ -26,10 +26,12 @@
                         <br/>
                         <strong>Media Technology</strong>
                         <p>
-                            At the end of my bachelor Communication & Multi Media Design, I started to get
-                            in touch with the use Artificial Intelligence, and I knew this was a direction I wanted to go
-                            into. Even though my internship offered me a job, I felt that doing a Master would be a future
-                            I wanted to explore.
+                            At the end of my bachelor Communication & Multi-Media Design, I started to get in touch with
+                            the use of Artificial Intelligence, and I knew this was a direction I wanted to learn more about.
+                            Even though my internship offered me a job, I hoped that doing a Master's would explore this field,
+                            and Media Technology helped me connect my previous knowledge with an academic standpoint. So,
+                            to finish my master's, I wrote a thesis on design principles for social robots to reduce unwanted
+                            AI bias in human-robot interaction.
                         </p>
                         <br/>
                     </div>

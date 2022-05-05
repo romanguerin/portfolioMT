@@ -21,6 +21,7 @@
                 <li><a class="Q3" id="RSAI" onclick="loadPost('RSAI')">Research Seminar AI</a></li>
                 <li><a class="Q2" id="SH" onclick="loadPost('SH')">Science & Humanities</a></li>
                 <li><a class="Q2" id="SSI" onclick="loadPost('SSI')">Sound Space & Interaction</a></li>
+                <li><a class="Q4" id="V4R" onclick="loadPost('V4R')">Video Games for Research</a></li>
             </ul>
         </li>
         <li>
