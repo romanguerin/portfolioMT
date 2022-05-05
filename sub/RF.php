@@ -15,6 +15,7 @@
                             educational backgrounds may have. We had to do a home class assignment, and we had to write a
                             7 papers essay where we had to write a paper on 7 papers within a subject. My subject was the influence
                             of chatbots as new technology. </p>
+                        <br/>
                         <h3>Essay</h3>
                         <a style ="color: black" href="./pdf/GuerinRoman_WriteanAbstract.pdf" target="_blank">
                             RomanGuerin assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">

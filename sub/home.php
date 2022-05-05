@@ -12,7 +12,7 @@
                             </i>
                         </p>
                         <br/>
-                        <strong>About me</strong>
+                        <h3>About me</h3>
                         <p>I'm a creative technologist, therefore I like to combine technology and design to
                             create an immersive experience.
                             Previously, I did a Bachelor<a style ="color: black" href="https://www.avans.nl/studeren/opleidingen/communication--multimedia-design/voltijd"> Communication & Multimedia Design </a>
@@ -20,11 +20,11 @@
                            You can check work on my website at <a style ="color: black" href="http://romanguerin.com/portfolio/#">romanguerin.com</a>
                         </p>
                         <br/>
-                        <img src="./images/me.jpg" style="width:100%" alt="img1">
+                        <img src="./images/Me.jpg" style="width:100%" alt="img1">
                         <br/>
                         <br/>
                         <br/>
-                        <strong>Media Technology</strong>
+                        <h3>Media Technology</h3>
                         <p>
                             At the end of my bachelor Communication & Multi-Media Design, I started to get in touch with
                             the use of Artificial Intelligence, and I knew this was a direction I wanted to learn more about.

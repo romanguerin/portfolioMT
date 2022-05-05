@@ -29,6 +29,7 @@
                         </a>
                         <br/>
                         <br/>
+                        <br/>
                         <!-- Assignment 2-->
                         <h3>Assignment 2</h3>
                         <a style ="color: black" href="./pdf/Computational Creativity - Assignment 2 - Marinus van den Oever & Roman Guerin - Poetry Book.pdf" target="_blank">
@@ -42,6 +43,7 @@
                         <a style ="color: black" href="https://editor.p5js.org/romanguerin/sketches/RkBlHHMuY" target="_blank">
                             <img src="./images/Poetry.png" style="width:100%" alt="img1">Bad Poets Society
                         </a>
+                        <br/>
                         <br/>
                         <br/>
                         <!-- Assignment 3-->

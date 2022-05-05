@@ -16,6 +16,7 @@
                             The first assignment was about finding a creative scientist.
                             For the second assignment, we had to do creative research in which we looked at if people
                             visited nature reserves more often during the corona pandemic. </p>
+                        <br/>
                         <h3>Essay</h3>
                         <a style ="color: black" href="./pdf/GuerinRoman_2021-WN_P&CS.pdf" target="_blank">
                             RomanGuerin assignment 1.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
@@ -48,6 +49,7 @@
                             2021, <strong>Guerin, R.N. - Van den Oever, M</strong></p>
                         <br/>
                         <img src="./images/visits.png" style="width:100%" alt="img1">
+                        <p><i>The nature visits per day 2019 - 2020</i></p>
                     </div>
                 </div>
                 <div style="clear: both;">&nbsp;</div>

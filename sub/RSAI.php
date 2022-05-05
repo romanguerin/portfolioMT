@@ -15,6 +15,7 @@
                             The goal of the course was to learn, study, process and present scientific material, and learn about
                             the history and broader context of artificial intelligence.
                         </p>
+                        <br/>
                         <h3>Seminar</h3>
                         <p>
                             The seminar consists of lectures, multiple homework tests, and student presentations.

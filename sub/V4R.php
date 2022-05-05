@@ -57,7 +57,7 @@
                         <a style ="color: black" href="./pdf/VG4R_TeamJ_ResearchProjectPaper.pdf" target="_blank">
                             Assignment Paper.pdf<img alt="pdf" id="ico" src="./images/PDF-icon-small.png">
                         </a>
-                        <p>2020, <strong>Drobota, T - Dudek, J - Guerin, R - Van den Oever, M - Siegmund, D</strong></p>
+                        <p>2022, <strong>Drobota, T - Dudek, J - Guerin, R - Van den Oever, M - Siegmund, D</strong></p>
                         <br/>
                         <img src="./images/Sensor.png" style="width:100%" alt="img1">
                         <p><i>Setup Sensors</i></p>

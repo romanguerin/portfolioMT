@@ -16,12 +16,13 @@
                             perception of a medium. Thus deepfake seemed a good medium to explore this theme.
                             Therefore we came up with a company and made a website that had an ‘algorithm’ to detect deepfakes called Fairify.
                         </p>
-                        <img src="./images/mark.gif" style="width:100%" alt="img1">
+                        <img src="./images/Mark.gif" style="width:100%" alt="img1">
                         <br/>
                         <h3>Website</h3>
                         <a style ="color: black" href="https://fairify.tobiasvanderklei.nl/home/" target="_blank">
                             Website Fairify Inc. – The only, best and open source AI Deepfake detector
                         </a>
+                        <br/>
                         <br/>
                         <br/>
                         <h3>Video</h3>
